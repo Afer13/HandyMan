@@ -1,0 +1,5 @@
+user-agent: *
+
+Allow: /
+
+disallow: hemeliyyat.php
